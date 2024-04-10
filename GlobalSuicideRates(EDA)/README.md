@@ -1,4 +1,4 @@
-### Suicide Rates Overview 1985 to 2016    
+### Suicide Rates Overview between 1985 and 2016    
 
 - What patterns can you see?
 - Are suicides rates climbing or falling in various countries?
